@@ -1,70 +1,73 @@
-# Getting Started with Create React App
+<p align="center">
+<img src="https://www.htmlhints.com/image/react/reactWeatherApp.png" width="100%">
+</p>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<p>
+<h1><b>Tech Stack:</b></h1>
+ 
+<ul>
+ <li>React</li>
+ <li>Material-UI</li>
+ <li>Css</li>
+ <li>Axios</li>
+ <li>React-router-domBackend</li>
+</ul>
+</p>
 
-## Available Scripts
+<p>
+<h1><b>Features :</b></h1>
+<ol type="1">
+ <li><h3><b>Weather forecast Section</b></h3>
+  <ul>
+   <li>Home Screen: A user-friendly home screen is made using React, MUI and Css.</li>
+   <li>Navbar: Navbar contains facility of Search and displaying the current city temperature . The Temperature is displayed using OpenWeatherMap.</li>
+   <li>Icons: Each icon is displayed according to Temperature. </li>
+   <li>Real-Time Posting: The showstopper of my website is that the Website will load as soon as any user sends it without refreshing the page.</li>
+   <li>Geo Location: The Locations are loaded using Google Map Platform .</li>
+  </ul>
+ </li>
+   <li><h3><b>Responsiveness:</b></h3>
+   <ul>
+    <li>The website is completely responsive and can be used in your smart phones.</li>
+   </ul>
+   </li>
+</ol>
+</p>
 
-In the project directory, you can run:
+<p>
+<h1><b>Website URL :</b></h1><br>
+<a href="https://weather-app-tau-ochre.vercel.app/">https://weather-app-tau-ochre.vercel.app/</a>
+</p>
 
-### `npm start`
+<p>
+<h1><b>GitHub Link:</b></h1><br>
+ <ul>
+  <li>Code: <a href="https://github.com/shivangi-gupta-01/weather-app-live">https://github.com/shivangi-gupta-01/weather-app-live</a></li>
+  <li>Api: <a href="https://openweathermap.org/">https://openweathermap.org/</a></li>
+ </ul>
+</p>
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+<p>
+ <h1><b>Deployment : </b></h1>
+ <br>
+ Vercel is used for deploying both frontend and backend.
+</p>
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+<p>
+ <h1><b>Documentation Link :</b></h1>
+ <br>
+ <a href="https://docs.google.com/document/d/1MubaXdizHZM_4wDSgrX9JChJSWWvQLoHEd3-pmMGarU/edit">https://docs.google.com/document/d/1MubaXdizHZM_4wDSgrX9JChJSWWvQLoHEd3-pmMGarU/edit</a>
+</p>
+<br>
+<br>
+<p>
+Thanking You,<br>
+Shivangi Gupta<br>
+1234shivangigupta@gmail.com<br>
++91 9827565565<br>
+<a href="https://github.com/shivangi-gupta-01">https://github.com/shivangi-gupta-01</a><br>
+<a href="https://www.linkedin.com/in/shivangi-gupta-46a974250/">https://www.linkedin.com/in/shivangi-gupta-46a974250</a><br>
+</p>
 
-### `npm test`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
