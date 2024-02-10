@@ -3,9 +3,8 @@
 </p>
 
 <p>
-Tech Stack:
-
-Front-end:
+<h1><b>Tech Stack:</b></h1>
+ 
 <ul>
  <li>React</li>
  <li>Material-UI</li>
@@ -16,9 +15,9 @@ Front-end:
 </p>
 
 <p>
- Features:
+<b>Features :</b>
 <ol type="1">
- <li>Weather forecast Section
+ <li><b>Weather forecast Section</b>
   <ul>
    <li>Home Screen: A user-friendly home screen is made using React, MUI and Css.</li>
    <li>Navbar: Navbar contains facility of Search and displaying the current city temperature . The Temperature is displayed using OpenWeatherMap.</li>
@@ -27,7 +26,7 @@ Front-end:
    <li>Geo Location: The Locations are loaded using Google Map Platform .</li>
   </ul>
  </li>
-   <li>Responsiveness:
+   <li><b>Responsiveness:</b>
    <ul>
     <li>The website is completely responsive and can be used in your smart phones.</li>
    </ul>
@@ -36,20 +35,20 @@ Front-end:
 </p>
 
 <p>
-Website URL :<br>
+<b>Website URL :</b><br>
 <a href="https://weather-app-tau-ochre.vercel.app/">https://weather-app-tau-ochre.vercel.app/</a>
 </p>
 
 <p>
 <b>GitHub Link:</b><br>
  <ul>
-  <li>Code: <a href="https://github.com/shivangi-gupta-01/weather-app-live">https://github.com/shivangi-gupta-01/weather-app-live</a></li><br>
+  <li>Code: <a href="https://github.com/shivangi-gupta-01/weather-app-live">https://github.com/shivangi-gupta-01/weather-app-live</a></li>
   <li>Api: <a href="https://openweathermap.org/">https://openweathermap.org/</a></li>
  </ul>
 </p>
 
 <p>
- <b>Deployment : </b>
+ <b>Deployment : </b><br>
  Vercel is used for deploying both frontend and backend.
 </p>
 
