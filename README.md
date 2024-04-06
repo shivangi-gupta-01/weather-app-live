@@ -3,70 +3,72 @@
 </p>
 
 <p>
-<h1><b>Tech Stack:</b></h1>
- 
+<h1><b>JS Backend</b></h1>
+ <h3>Tech</h3>
 <ul>
- <li>React</li>
- <li>Material-UI</li>
- <li>Css</li>
- <li>Axios</li>
- <li>React-router-domBackend</li>
-</ul>
+  <li>Node JS</li>
+  <li>Mongo DB</li>
+  <li>Mongoose</li>
+  <li>Axios</li>
+  <li>Express</li>
+  <li>JSON Web Token</li>
+ </ul>
 </p>
 
 <p>
 <h1><b>Features :</b></h1>
 <ol type="1">
- <li><h3><b>Weather forecast Section</b></h3>
+ <li><h3>Authentication</h3>
+ <ul>
+    <li>The authentication is done using <b>autho</b>.</li>
+   </ul>
+  </li>
+ <li><h3><b>Api to store and submit crop and soil: </b></h3>
   <ul>
-   <li>Home Screen: A user-friendly home screen is made using React, MUI and Css.</li>
-   <li>Navbar: Navbar contains facility of Search and displaying the current city temperature . The Temperature is displayed using OpenWeatherMap.</li>
-   <li>Icons: Each icon is displayed according to Temperature. </li>
-   <li>Real-Time Posting: The showstopper of my website is that the Website will load as soon as any user sends it without refreshing the page.</li>
-   <li>Geo Location: The Locations are loaded using Google Map Platform .</li>
+   <li>Store_crop: Api to store recently searched crops.</li>
+   <li>fetch_crop: Api to get the above stored crop to display in recent crop search.</li>
+   <li>submit_soil: Form submit to store info of soil. </li>
+   <li>submit_crop: Api to store crop form informations.</li>
+   <li>recent_crop: Api to fetch recent crops.
+   <li>recent_soil: Api to fetch recentl crops.</li>
   </ul>
  </li>
-   <li><h3><b>Responsiveness:</b></h3>
-   <ul>
-    <li>The website is completely responsive and can be used in your smart phones.</li>
-   </ul>
-   </li>
-</ol>
-</p>
+<li><h3><b>Api for users informations: </b></h3>
+  <ul>
+   <li>update_info: Api to update users infornation in profile page.
+   <li>Share Api: Api to share users profile.</li>
+  </ul>
+ </li>
 
-<p>
-<h1><b>Website URL :</b></h1><br>
-<a href="https://weather-app-tau-ochre.vercel.app/">https://weather-app-tau-ochre.vercel.app/</a>
+ <li><h3><b>Middlewares: </b></h3>
+  <ul>
+   <li>The middleware in node. js is a function that will have all the access for requesting an object, responding to an object, and moving to the next middleware function in the application request-response cycle.</li>
+  </ul>
+ </li>
+
+ <li><h3><b>Database models to store information: </b></h3>
+  <ul>
+   <li>imageUploadModel: Model to upload image of the user.</li>
+   <li>recentCropFormModel: Model to store crop form information.</li>
+   <li>recentCropSearchModel: Model to store recent crop searches from the home page. </li>
+   <li>recentSoilFormModel: Model to srore soil form information.</li>
+   <li>userModel: Model to store user's personal information and soil componenet.
+  </ul>
+ </li>
+</ol>
 </p>
 
 <p>
 <h1><b>GitHub Link:</b></h1><br>
  <ul>
-  <li>Code: <a href="https://github.com/shivangi-gupta-01/weather-app-live">https://github.com/shivangi-gupta-01/weather-app-live</a></li>
-  <li>Api: <a href="https://openweathermap.org/">https://openweathermap.org/</a></li>
+  <li>Code: <a href="https://github.com/Wittyhacks4CR002/WH018_CropCode/tree/main/Backend/Primary">https://github.com/Wittyhacks4CR002/WH018_CropCode/tree/main/Backend/Primary</a></li>
  </ul>
 </p>
 
-<p>
- <h1><b>Deployment : </b></h1>
- <br>
- Vercel is used for deploying both frontend and backend.
-</p>
-
-<p>
- <h1><b>Documentation Link :</b></h1>
- <br>
- <a href="https://docs.google.com/document/d/1MubaXdizHZM_4wDSgrX9JChJSWWvQLoHEd3-pmMGarU/edit">https://docs.google.com/document/d/1MubaXdizHZM_4wDSgrX9JChJSWWvQLoHEd3-pmMGarU/edit</a>
-</p>
 <br>
 <br>
-<p>
 Thanking You,<br>
-Shivangi Gupta<br>
-1234shivangigupta@gmail.com<br>
-+91 9827565565<br>
-<a href="https://github.com/shivangi-gupta-01">https://github.com/shivangi-gupta-01</a><br>
-<a href="https://www.linkedin.com/in/shivangi-gupta-46a974250/">https://www.linkedin.com/in/shivangi-gupta-46a974250</a><br>
+Team CropCode
 </p>
 
 
